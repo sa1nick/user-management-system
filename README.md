@@ -4,7 +4,7 @@
 * `Java 17`
 * `Maven 4.0.0`
 * `Spring Boot 3.0.5`
-* `Apache Tomcat/10.1.7`
+* `Apache Tomcat 10(10.1.8)`
 *  `IntelliJ IDEA 2023.1 (Community Edition)`
 
 
