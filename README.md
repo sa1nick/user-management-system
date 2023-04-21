@@ -1,6 +1,6 @@
 # User Management System
 
-### Built With
+## Built With
 * `Java 17`
 * `Maven 4.0.0`
 * `Spring Boot 3.0.5`
@@ -8,15 +8,15 @@
 *  `IntelliJ IDEA 2023.1 (Community Edition)`
 
 
-### Data Flow
+## Data Flow
 1. Controller : Created mapping for every end-points.
 2. Service : Added the buisness logic for every end-points.
 3. Repository : CRUD operation performed. 
 
-### Data Structure 
+## Data Structure Used
 Used ArrayList to store the User type object.
 
 
-### Project Summary
+## Project Summary
 In this project we performed CRUD operation like add user,get user,delete user and update user.
 
