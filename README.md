@@ -10,7 +10,7 @@
 
 ## Data Flow
 1. Controller : Created mapping for every end-points.
-2. Service : Added the buisness logic for every end-points.
+2. Service : Added the business logic for every end-points.
 3. Repository : CRUD operation performed. 
 
 ## Data Structure Used
